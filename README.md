@@ -8,7 +8,7 @@ Single-file 846KB HTML application with 2,949 CBSA tariff entries, client-side T
 
 🔗 **Local:** http://localhost:8888/marine-hs-lookup.html
 
-*(Public URL pending — deploy in progress)*
+🔗 **[Launch HS Tariff Lookup](https://holy-salmon-ka4w.here.now/)**
 
 ## What It Does
 
